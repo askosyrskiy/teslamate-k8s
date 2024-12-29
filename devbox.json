@@ -5,7 +5,7 @@
     "kubectl@latest",
     "kubectx@latest",
     "kubent@latest",
-    "watch@latest",
-    "kustomize@latest"
+    "kubernetes-helm@latest",
+    "terraform@latest"
   ]
 }
